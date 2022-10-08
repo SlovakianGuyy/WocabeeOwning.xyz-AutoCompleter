@@ -13,4 +13,5 @@ Cyberpunk Theme [Cyberpunk-2077-theme-css](https://github.com/gwannon/Cyberpunk-
 
 ## Release
 not releasing due to my classmates finding way to farm points without any effort.
-#### GET FUCKING OWNED BY UNOAIKO.
+#### UNOAIKO. ON DA TOP
+#### GET FUCKING OWNED
