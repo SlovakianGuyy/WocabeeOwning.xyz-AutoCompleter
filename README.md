@@ -2,7 +2,7 @@
 ## Features
 * Auto save words to database
 * Auto complete practice
-** ddddd
+> ddddd
 * Change Background
 * Change text color
 not releasing due to my classmates finding way to not do that manually.
