@@ -1,8 +1,8 @@
 # WocabeeOwning.xyz - Auto Complete for you
 
 ## Disclaimer
-This is cracked version of [Chrome Extension](https://chrome.google.com/webstore/detail/wocabee-autocompleter/nmpiegohcjgangiciinakflcelcpoefo)
-Cyberpunk Theme [Cyberpunk-2077-theme-css](https://github.com/gwannon/Cyberpunk-2077-theme-css)
+This is cracked version of [Chrome Extension](https://chrome.google.com/webstore/detail/wocabee-autocompleter/nmpiegohcjgangiciinakflcelcpoefo)<br/>
+Cyberpunk Theme [Cyberpunk-2077-theme-css](https://github.com/gwannon/Cyberpunk-2077-theme-css)<br/>
 
 ## Features
 1. Auto save words to database
