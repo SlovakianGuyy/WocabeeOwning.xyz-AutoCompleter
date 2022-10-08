@@ -5,5 +5,7 @@
    - Automatically stop in 'PracticeAll' mode when 250 words are answered.
 3. Change Background
 4. Change text color
-not releasing due to my classmates finding way to not do that manually.
+
+## Release
+not releasing due to my classmates finding way to farm points without any effort.
 GET FUCKING OWNED BY UNOAIKO.
