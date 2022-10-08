@@ -1,7 +1,7 @@
 # WocabeeOwning.xyz - Auto Complete for you
 
 ## Disclaimer
-This is cracked version of [Chrome Extension](https://chrome.google.com/webstore/detail/wocabee-autocompleter/nmpiegohcjgangiciinakflcelcpoefo)<br/>
+This is cracked version of [WocaBee Autocompleter Extension](https://chrome.google.com/webstore/detail/wocabee-autocompleter/nmpiegohcjgangiciinakflcelcpoefo)<br/>
 Cyberpunk Theme [Cyberpunk-2077-theme-css](https://github.com/gwannon/Cyberpunk-2077-theme-css)<br/>
 
 ## Features
