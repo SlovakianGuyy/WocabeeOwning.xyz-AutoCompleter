@@ -1,4 +1,8 @@
 # WocabeeOwning.xyz - Auto Complete for you
+
+## Disclaimer
+This is cracked version of: [Extension](https://chrome.google.com/webstore/detail/wocabee-autocompleter/nmpiegohcjgangiciinakflcelcpoefo)
+
 ## Features
 1. Auto save words to database
 2. Auto complete practice
